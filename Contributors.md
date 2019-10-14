@@ -19,6 +19,7 @@
 - [Ahsan Ullah](https://github.com/IamAhsanMani)
 - Anirudh
 - Philip Wright
+- Jasvinder Singh Narang(https://github.com/jknarang07)
 - [Agrim Jain](https://github.com/Agrim2411)
 - [Sourabh Jurri](https://github.com/pintu236)
 - [Suvranil Dutta](https://github.com/neil-dev)
